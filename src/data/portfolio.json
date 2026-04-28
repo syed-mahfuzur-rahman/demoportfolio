@@ -1,8 +1,12 @@
 {
   "name": "Syed Mahfuzur Rahman",
-  "roles": ["Flutter Developer", "Lecturer", "Coffee Enthusiast"],
+  "roles": [
+    "Flutter Developer",
+    "Lecturer",
+    "CoffeeEnthusiast"
+  ],
   "tagline": "Building scalable mobile experiences.",
-  "about": "Hi, I'm Syed Mahfuzur Rahman — a Flutter developer, passionate about building efficient, user-friendly applications and mentoring the next generation of engineers. I enjoy solving real-world problems through clean, maintainable code and modern development practices. Alongside teaching and research, I continuously explore new technologies to enhance both my work and my students' learning experience. When I’m not coding or in the classroom, you’ll likely find me enjoying a good cup of coffee and refining ideas for my next project.", 
+  "about": "Hi, I'm Syed Mahfuzur Rahman — a Flutter developer, passionate about building efficient, user-friendly applications and mentoring the next generation of engineers. I enjoy solving real-world problems through clean, maintainable code and modern development practices. Alongside teaching and research, I continuously explore new technologies to enhance both my work and my students' learning experience. When I’m not coding or in the classroom, you’ll likely find me enjoying a good cup of coffee and refining ideas for my next project.",
   "avatarInitials": "MR",
   "location": "Barishal, BD",
   "socials": {
@@ -14,15 +18,34 @@
   "skills": [
     {
       "category": "Frontend",
-      "items": ["React", "Flutter", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js"]
+      "items": [
+        "React",
+        "Flutter",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Next.js"
+      ]
     },
     {
       "category": "Backend",
-      "items": ["Node.js", "Django", "PostgreSQL", "Edge Functions", "REST", "GraphQL"]
+      "items": [
+        "Node.js",
+        "Django",
+        "PostgreSQL",
+        "Edge Functions",
+        "REST",
+        "GraphQL"
+      ]
     },
     {
       "category": "Design & Tools",
-      "items": ["Figma", "Git", "Vite", "Vercel"]
+      "items": [
+        "Figma",
+        "Git",
+        "Vite",
+        "Vercel"
+      ]
     }
   ],
   "footer": "Built with care · © 2026 Syed Mahfuzur Rahman"
